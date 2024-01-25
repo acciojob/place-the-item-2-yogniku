@@ -1,2 +1,85 @@
+.holder {
+    display: flex;
+    justify-content:space-between;  
+}
 
+/* Style for item-1 */
+.item-1 {
+    width: 100px;
+    height: 100px;
+    background-color: green;
+	 display: flex;
+    justify-content:space-between;  
+}
+/* Your CSS Code here. */.item-2{
+	 width: 100px;
+    height: 100px;
+    background-color:red;
+
+}
+
+/* Style for item-1 */
+.item-3{ width: 100px;
+    height: 100px;
+    background-color: blue;
+	
+}
+/* Your CSS Code here. */
+
+/* Style for item-1 */
+.holder-2 {
+  display:flex;
+	 flex-wrap:nowrap;
+	
+	flex-direction:row-reverse;
+	align-items:center;
+}
+/* Your  Code here. */.item-1 {
+    width: 100px;
+    height: 100px;
+	 background-color:red;
+    display: flex;
+    
+}
+/* Your CSS Code here. */.item-2{
+	 width: 100px;
+    height: 100px;
+    background-color:blue;
+}
+
+	.item-3{ width: 100px;
+    height: 100px;
+    background-color: green;
+	background-color:green; 
+	   }
+
+
+
+
+/* Style for item-1 */
+.item-4{ width: 100px;
+    height: 100px;
+    background-color: green;
+	background-color:green; 
+	   }
+.item-5{ width: 100px;
+    height: 100px;
+    background-color: green;
+	background-color:green; 
+	   }.item-6{ width: 100px;
+    height: 100px;
+    background-color: green;
+	background-color:green; 
+	   }.item-7{ width: 100px;
+    height: 100px;
+    background-color: green;
+	background-color:green; 
+	   }
+/* Your CSS Code here. */
+
+/* Style for item-1 */
+
+
+/* Your  Code here. */.item-4 {
+    width: 100px
 /* Your CSS Code here. */
