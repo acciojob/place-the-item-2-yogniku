@@ -1,6 +1,7 @@
 .holder {
     display: flex;
-    justify-content:space-between;  
+    justify-content:center;
+	
 }
 
 /* Style for item-1 */
@@ -32,7 +33,7 @@
 	 flex-wrap:nowrap;
 	
 	flex-direction:row-reverse;
-	align-items:center;
+	justify-content:center;
 }
 /* Your  Code here. */.item-1 {
     width: 100px;
